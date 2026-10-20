@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNShakeSpec_autolinked_build",
+		"source" : "C:/SheRaksha/node_modules/react-native-shake/android/build/generated/source/codegen/jni"
+	}
+}
